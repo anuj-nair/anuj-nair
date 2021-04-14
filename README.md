@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Anuj Nair.
+
+I’m a Linux Enthusiast.
+
+Working on mastering Data Science and AI/ML.
+
+Currently, pursuing Computer Science and Engineering from India.
+
+
+
 <!--
 **anuj-nair/anuj-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

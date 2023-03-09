@@ -4,9 +4,9 @@
 
 🐧 I’m a Linux Enthusiast.
 
-🤖 Working on mastering Data Science and AI/ML.
+🤖 Working on mastering Data Science and AI/ML, also passionate about DevOps.
 
-🖥  Currently, pursuing Computer Science and Engineering from India.
+🖥  Currently, pursuing Master of Science in Data Science from Friedrich-Alexander-Universität Erlangen-Nürnberg.
  
 📸 Apart from Technical stuff, I enjoy Photography.
 
